@@ -7,4 +7,4 @@ Link per le funzioni di Spatialite : http://www.gaia-gis.it/gaia-sins/spatialite
 
 Link manuale in italiano di Spatialite : http://www.gaia-gis.it/spatialite-3.0.0-BETA/SpatiaLite-Cookbook_ITA.pdf
 
-Link video: 
+Link video: https://youtu.be/xBer2oyRSDM
